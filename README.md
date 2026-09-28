@@ -4,6 +4,8 @@ Machine-learning study of simulated supernova-neutrino interactions in liquid-ar
 
 Developed as part of the Practical Machine Learning for Physicists module at University College London.
 
+Grade: 85%
+
 ## Overview
 
 Supernova neutrinos produce low-energy, sparse signals in liquid-argon detectors, making genuine interactions difficult to distinguish from detector backgrounds.
