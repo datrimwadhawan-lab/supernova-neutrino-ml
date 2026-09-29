@@ -56,11 +56,10 @@ CNN architectures were used to investigate whether spatial information in the de
 - Scikit-learn
 - Matplotlib
 
-## Repository Structure
+## Repository Contents
 
-`notebooks/` — Complete analysis and model development  
-`figures/` — Selected figures and model-performance results  
-`report/` — Full project report
+- `supernova_neutrino_classification.ipynb` — Complete analysis, model development and evaluation
+- `Machine_Learning_Mini_Project_Report.pdf` — Full project report including physics motivation, methodology, results and discussion
 
 ## Author
 
