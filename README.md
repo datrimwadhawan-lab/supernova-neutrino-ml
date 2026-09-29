@@ -30,7 +30,7 @@ Electronic detector noise was simulated using Gaussian fluctuations at varying n
 - At sufficiently high electronic noise, all architectures approached random classification.
 - Localised Gaussian backgrounds had significantly less impact, with classification accuracy typically remaining above 98%.
 
-![CNN performance across electronic noise levels](figures/cnn_noise_performance.png)
+![CNN performance across electronic noise levels](cnn_noise_performance.png)
 
 The results suggest that classification performance is ultimately limited by signal-to-noise ratio rather than model complexity alone.
 
